@@ -71,12 +71,6 @@ You can easily:
 
 ---
 
-## 📸 Screenshots
-
-_Add screenshots here if required for submission._
-
----
-
 ## 📜 License
 
 This project is open-source and free to use for educational purposes.
